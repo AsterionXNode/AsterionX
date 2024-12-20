@@ -1,4 +1,4 @@
-SatNodeX: Solana SDR Broadcast & Receive
+AsterionX: Solana SDR Broadcast & Receive
 Broadcast and receive Solana transactions without internet using Software Defined Radio (SDR). This project provides a setup to transmit and receive Solana blockchain transactions over radio frequencies, enabling decentralized communication in offline environments.
 
 ⚠️ Disclaimer: Transmitting radio signals may require appropriate licenses in your country. Ensure you comply with all local regulations before proceeding.
